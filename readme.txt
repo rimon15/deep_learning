@@ -1,1 +1,1 @@
-learning ML with graphs
+learning deep learning
